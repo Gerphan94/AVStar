@@ -1,6 +1,6 @@
 [
   {
-    "id":1,
+    "id": 1,
     "name": "Yua Mikami",
     "aliases": ["三上悠亜"],
     "birthdate": "1993-08-16",
@@ -15,7 +15,7 @@
     "image": "https://i.mydramalist.com/vN5JYc.jpg"
   },
   {
-    "id":2,
+    "id": 2,
     "name": "Kana Momonogi",
     "aliases": ["桃乃木かな"],
     "birthdate": "1996-12-24",
@@ -30,7 +30,7 @@
     "image": "https://i.mydramalist.com/p8LNy_5f.jpg"
   },
   {
-    "id":3,
+    "id": 3,
     "name": "Riri Nanatsumori",
     "aliases": ["七ツ森りり"],
     "birthdate": "1999-11-11",
@@ -44,7 +44,7 @@
     "image": "https://www.javlibrary.com/img/actors/74.jpg"
   },
   {
-    "id":4,
+    "id": 4,
     "name": "Aoi Tsukasa",
     "aliases": ["葵つかさ"],
     "birthdate": "1990-08-14",
@@ -58,7 +58,7 @@
     "image": "https://i.mydramalist.com/jBVm52.jpg"
   },
   {
-    "id":5,
+    "id": 5,
     "name": "Tsubasa Amami",
     "aliases": ["天海つばさ"],
     "birthdate": "1988-03-08",

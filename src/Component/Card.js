@@ -9,7 +9,7 @@ function Card({ data }) {
 
     const [imageData, setImageData] = useState(null);
 
-    const id = 1;
+    const id = data.id;
 
 
 
