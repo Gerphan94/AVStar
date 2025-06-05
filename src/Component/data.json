@@ -1,0 +1,74 @@
+[
+  {
+    "id":1,
+    "name": "Yua Mikami",
+    "aliases": ["三上悠亜"],
+    "birthdate": "1993-08-16",
+    "debut": "2015",
+    "agency": "Muteki / S1 No.1 Style",
+    "status": "Retired (2023)",
+    "notable_works": ["SSNI-001", "SSNI-444", "SSIS-032"],
+    "social_media": {
+      "instagram": "https://www.instagram.com/yua_mikami/",
+      "twitter": "https://twitter.com/yua_mikami"
+    },
+    "image": "https://i.mydramalist.com/vN5JYc.jpg"
+  },
+  {
+    "id":2,
+    "name": "Kana Momonogi",
+    "aliases": ["桃乃木かな"],
+    "birthdate": "1996-12-24",
+    "debut": "2015",
+    "agency": "S1 No.1 Style",
+    "status": "Active",
+    "notable_works": ["SSNI-200", "SSNI-576", "SSIS-052"],
+    "social_media": {
+      "instagram": "https://www.instagram.com/kanamomonogi/",
+      "twitter": "https://twitter.com/Kana_Momonogi"
+    },
+    "image": "https://i.mydramalist.com/p8LNy_5f.jpg"
+  },
+  {
+    "id":3,
+    "name": "Riri Nanatsumori",
+    "aliases": ["七ツ森りり"],
+    "birthdate": "1999-11-11",
+    "debut": "2019",
+    "agency": "IdeaPocket",
+    "status": "Active",
+    "notable_works": ["IPX-601", "IPX-707", "IPX-896"],
+    "social_media": {
+      "twitter": "https://twitter.com/nanatsumoririri"
+    },
+    "image": "https://www.javlibrary.com/img/actors/74.jpg"
+  },
+  {
+    "id":4,
+    "name": "Aoi Tsukasa",
+    "aliases": ["葵つかさ"],
+    "birthdate": "1990-08-14",
+    "debut": "2010",
+    "agency": "S1 No.1 Style",
+    "status": "Active",
+    "notable_works": ["SSNI-229", "SSNI-424", "SSIS-035"],
+    "social_media": {
+      "twitter": "https://twitter.com/tsukasa_aoi"
+    },
+    "image": "https://i.mydramalist.com/jBVm52.jpg"
+  },
+  {
+    "id":5,
+    "name": "Tsubasa Amami",
+    "aliases": ["天海つばさ"],
+    "birthdate": "1988-03-08",
+    "debut": "2009",
+    "agency": "IdeaPocket",
+    "status": "Active",
+    "notable_works": ["IPX-149", "IPX-303", "IPX-482"],
+    "social_media": {
+      "twitter": "https://twitter.com/tsubasa_amami"
+    },
+    "image": "https://i.mydramalist.com/XyoXW_5c.jpg"
+  }
+]
